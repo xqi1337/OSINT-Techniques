@@ -19,6 +19,7 @@ Bei der Lückenanalyse wird eine Bestandsaufnahme der vorhandenen Ausgangsinform
 #########################################################################################
 # Password Reset
 #########################################################################################
+
 Mangelnde Standardisierung bei den Ansätzen für Funktionen zum Zurücksetzen von Passwörtern, die verwendet werden können, um die Telefonnummern und E-Mail-Adressen von Zielkonten zu erhalten.
 
 FACEBOOK: Es wird ein Bildschirm mit alternativen Kontaktmethoden angezeigt, die zum Zurücksetzen des Passworts verwendet werden können, wie im obigen Beitrag zu sehen. Es wird auch die Anzahl der Sternchen verwendet, die der Länge der E-Mail-Adressen entspricht.
@@ -42,6 +43,7 @@ FOURSQUARE: Löst automatisch einen Reset aus und sendet dem Benutzer eine E-Mai
 #########################################################################################
 # Reverse Image Searching
 #########################################################################################
+
 Yandex Images 
 https://images.yandex.com
 
@@ -59,6 +61,7 @@ https://tineye.com
 #########################################################################################
 # Recent Satellite Imagery
 #########################################################################################
+
 GOOGLE EARTH Explore New Satellite Imagery Tool
 https://earth.google.com/web/@30.12736717,35.69560812,-1530.56420215a,14967606.11368418d,35y,0h,0t,0r/data=CjkaNxIxCiUweDE0MzY4OTc2YzM1YzM2ZTk6MHgyYzQ1YTAwOTI1YzRjNDQ0KgjDhGd5cHRlbhgCIAE
 
@@ -70,6 +73,7 @@ https://www.mapbox.com/
 #########################################################################################
 # Calculate photo approx time of day
 #########################################################################################
+
 https://suncalc.net
 https://suncalc.org
 
@@ -78,6 +82,7 @@ https://suncalc.org
 #########################################################################################
 # Fictional Account Creation
 #########################################################################################
+
 Autogenerieren Sie fiktive Personas mit den folgenden Online-Tools:
 
 This Person Does Not Exist
@@ -112,6 +117,7 @@ https://www.behindthename.com/random/
 #########################################################################################
 # OSINT_Tools
 #########################################################################################
+
 #ANONSEARCH:
 DuckDuckGo
 https://duckduckgo.com/
@@ -607,6 +613,7 @@ https://usersearch.org
 #########################################################################################
 # OSINT_Resources
 #########################################################################################
+
 #OSINT Framework
 https://osintframework.com/
 
