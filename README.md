@@ -3,9 +3,9 @@
 ###
 ###
 ### 
-########################################################################################
+#######################################################################################
 # GAP ANALYSIS METHODOLOGY
-########################################################################################
+#######################################################################################
 
 Bei der Lückenanalyse wird eine Bestandsaufnahme der vorhandenen Ausgangsinformationen vorgenommen und dann anhand von vier einfachen Fragen ermittelt, was als nächstes zu tun ist. Auf diese Weise können Sie Struktur und Ordnung in Ihre OSINT-Forschung bringen. Die vier Fragen lauten:
 
