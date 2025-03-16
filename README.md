@@ -192,6 +192,15 @@ https://whoxy.com/reverse-whois
 
 
 #EMAIL:
+Holehe
+https://github.com/megadose/holehe
+
+GitHub Email Scaper
+https://github.com/andyjsmith/GitHub-Email-Scraper
+
+Mosint
+https://github.com/alpkeskin/mosint
+
 Cynic
 https://ashley.cynic.al
 
@@ -291,6 +300,12 @@ https://crt.sh
 
 DNS Dumpster
 https://dnsdumpster.com
+
+Builtwith
+https://builtwith.com/
+
+Pagodo
+https://github.com/opsdisk/pagodo
 
 DomainIQ
 https://domainiq.com/revers_analytics
@@ -474,6 +489,14 @@ Online Barcode Reader
 http://online-barcode-reader/inliteresearch.com
 
 
+#IMAGES
+Imgops
+https://imgops.com/
+
+Depix
+https://github.com/spipm/Depixelization_poc
+
+
 #OPEN DIRECTORY SEARCH:
 Filer
 http://rsch.neocities.org/gen2filer.html
@@ -595,7 +618,18 @@ World License Plates
 https://worldlicenseplates.com
 
 
+#GITHUB:
+Shhgit
+https://github.com/eth0izzle/shhgit
+
+
 #USERNAME:
+Sherlock
+https://github.com/sherlock-project/sherlock
+
+Nexfli
+https://github.com/thewhiteh4t/nexfil
+
 Know Em 
 https://knowem.com
 
@@ -608,8 +642,24 @@ https://namevine.com
 User Search
 https://usersearch.org
 
- 
+socid_extractor
+https://github.com/soxoj/socid-extractor
 
+Webmii
+https://webmii.com/
+
+PimEyes
+https://pimeyes.com/en
+
+Agcom
+https://www.agcom.it/node/42043
+
+Facecheck
+https://facecheck.id/de
+
+Google GHunt
+https://github.com/mxrch/GHunt
+ 
 #######################################################################################
 # OSINT_Resources
 #######################################################################################
