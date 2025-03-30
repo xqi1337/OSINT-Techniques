@@ -114,6 +114,39 @@ https://www.behindthename.com/random/
 
  
 
+
+
+#######################################################################################
+# Antiviruses
+#######################################################################################
+
+http://fuckingscan.me/
+http://v2.scan.majyx.net/
+http://nodistribute.com/
+http://www.file2scan.net/
+http://anubis.iseclab.org/
+https://anonscanner.com/
+http://virusscan.jotti.org/it
+https://www.virustotal.com/nl/
+ 
+
+
+
+#######################################################################################
+# FILE_SHARING
+#######################################################################################
+
+ Download & Install https://onionshare.org
+ Press Connect with TOR Button
+ Drag & Drop all Files you want to upload in the field
+ Wait some time
+ You'll get an [.]onion url aswell as an private key[.]
+ Provide User's with the link and the Provate key aswell as the download link for the tor browser[.]
+
+Note, after you shared the File, you can stop file sharing at any time within OnionShare Application This is useful if you for example want only 1 person to download it or if your link and private key got exposed to Users who shouldn't be able to download it
+
+ 
+
 #######################################################################################
 # OSINT_Tools
 #######################################################################################
@@ -157,7 +190,206 @@ https://io-archive.org
 Twitter Trails
 http://twittertrails.com/
 
- 
+Autopsy - Open source digital forensics platform to analyze hard drives and smart phones 
+https://www.autopsy.com
+
+EnCase - Commercial computer forensics software for e-discovery and investigations by OpenText 
+https://www.opentext.com/products-and-solutions/products/software/encase-platform
+
+AccessData (FTK) - Forensic toolkit computer investigation software by AccessData 
+https://accessdata.com/products-services/forensic-toolkit-ftk
+
+X-Ways Forensics - Integrated computer forensics software by X-Ways Software Technology 
+http://www.x-ways.net/forensics/
+
+Sleuth Kit - Open source digital forensics tools for analyzing disk images and file systems 
+https://www.sleuthkit.org
+
+Volatility - Memory forensics framework to analyze volatile memory dumps and artifacts 
+https://www.volatilityfoundation.org/
+
+Wireshark - Network protocol analyzer useful for network forensics and traffic analysis 
+https://www.wireshark.org
+
+Cellebrite UFED - Commercial mobile forensic software to extract data from phones and tablets 
+https://www.cellebrite.com/en/ufed-ultimate/
+
+Email Collector - Tool to collect and analyze email data during investigations 
+https://www.accessdata.com/products-services/e-discovery/email-examination/ftk-email-collector
+
+Forensics (DFF) - Digital forensics framework, an open source platform for investigations 
+https://github.com/arxsys/dff
+
+Magnet AXIOM - Commercial digital investigations platform from Magnet Forensics 
+https://www.magnetforensics.com/products/magnet-axiom/
+
+Oxygen Detective - Cloud extraction tool for investigations involving cloud services 
+https://www.oxygen-forensic.com/en/oxygen-detective
+
+OSForensics - Specialized forensics tools for Microsoft systems from PassMark 
+https://www.osforensics.com/
+
+NetworkMiner - Open source network forensic analyzer useful for investigating traffic 
+http://www.netresec.com/?page=NetworkMiner
+
+RegRipper - Tool to parse Windows registry files and dig for useful data 
+https://github.com/keydet89/RegRipper3.0
+
+Bulk Extractor - Scans disk images and extracts interesting bits of data 
+https://github.com/simsong/bulk_extractor
+
+Ghiro - Website screenshots and analysis for forensic investigations 
+http://www.getghiro.org/
+
+Scalpel - File carver which recovers files based on headers and footers 
+http://www.digitalforensicssolutions.com/Scalpel/
+
+HxD - Hex editor useful for analyzing raw disk and memory dumps 
+https://mh-nexus.de/en/hxd/
+
+TestDisk - Data recovery tool, useful when file systems get corrupted 
+https://www.cgsecurity.org/wiki/TestDisk
+
+PhotoRec - Recovery tool specifically focused on photos and media files 
+https://www.cgsecurity.org/wiki/PhotoRec
+
+CAINE - Italian GNU/Linux live distribution with many forensics tools 
+https://www.caine-live.net
+
+Axiom Cyber - Commercial digital forensics and incident response platform 
+https://axiomcyber.com/axiom-cyber/
+
+Belkasoft Evidence - Commercial all-in-one forensics solution for Windows, mobile, etc. 
+https://belkasoft.com/evidence
+
+Fibratus - Tool to explore and trace Windows kernel activity and data 
+https://www.jpcert.or.jp/english/pub/sr/ir_research.html
+
+Autopsy Browser - GUI interface for Autopsy digital forensics platform 
+https://www.autopsy.com/browser/
+
+Kali Linux - Penetration testing Linux distribution with many useful security tools 
+https://www.kali.org
+
+DEFT - Linux distribution configured specifically for computer forensics 
+http://www.deftlinux.net
+
+Volatility Framework - Advanced memory forensics framework with plugins and APIs 
+https://www.volatilityfoundation.org/
+
+PyFlag - Legacy Australian forensic and log analysis GUI platform 
+http://www.pyflag.net
+
+Plaso (log2timeline) - Extract timestamps from various logs and aggregate timeline 
+https://plaso.readthedocs.io/en/latest/sources/user/log2timeline.html
+
+TSK (The Sleuth Kit) - File system and disk analysis tools originally focused on NTFS 
+https://www.sleuthkit.org/sleuthkit/
+
+Redline - Host investigations and malware analysis tool by FireEye 
+https://www.fireeye.com/services/freeware/redline.html
+
+Snort - Open source intrusion detection and network monitoring system 
+https://www.snort.org
+
+Tcpdump - Capture and analyze network traffic on Unix-like systems 
+https://www.tcpdump.org
+
+Ngrep - Search within network traffic payloads like grep for text streams 
+http://ngrep.sourceforge.net/
+
+dcfldd - Disk cloning and forensics tool, version of dd with hashing 
+https://dcfldd.sourceforge.net/
+
+SIFT (SANS) - Ubuntu-based distribution for forensic analysis 
+https://digital-forensics.sans.org/community/downloads
+
+Paladin - USB image mounted as virtual drive with write-protection 
+https://sumuri.com/software/paladin/
+
+CAINE Live - Self-contained bootable forensic environment 
+https://www.caine-live.net/page5/page5.html
+
+XRY (XAMN) - Commercial mobile forensic software to analyze phones 
+https://msab.com/xry/
+
+BlackLight - Powerful Windows-based forensics analysis platform 
+https://www.blackbagtech.com/blacklight.html
+
+WinHex - Hex editor, particularly helpful for low-level analyzing raw data 
+https://www.x-ways.net/winhex/
+
+Access FTK Imager - Disk and volume imaging software from AccessData 
+https://accessdata.com/product-download
+
+DC3DD - Improved version of dd for forensics, handles errors better 
+https://github.com/Defense-Cyber-Center/DC3-DD
+
+Raptor - Validation tool to verify the integrity of forensic copies 
+http://forensic.rampar.net/
+
+EnCase Imager - Disk imaging tool from Guidance Software 
+https://www.guidancesoftware.com/encase-imager
+
+Guymager - Open source disk cloning and imaging tool for Linux 
+https://guymager.sourceforge.io
+
+Extundelete - Used to recover deleted files from mountable images 
+http://extundelete.sourceforge.net/
+
+Xplico - Network forensics tool that rebuilds sessions from traffic 
+http://www.xplico.org/
+
+Foremost - File carving utility to recover files using header/footer definitions 
+http://foremost.sourceforge.net
+
+Live View - Volatile memory analysis tool for Windows systems 
+http://liveview.sourceforge.net/
+
+Yara - Pattern matching tool aimed at malware researchers
+
+Checkm8 - Jailbreaking tool extracting data from passcode locked iOS devices 
+https://checkm8.info/
+
+Olefile - Python package for parsing OLE and Office documents 
+https://github.com/decalage2/olefile
+
+Pyew - Python tool for malware analysis, static and dynamic 
+https://github.com/joxeankoret/pyew
+
+USBDeview - Handy Windows tool listing all USB devices ever connected 
+https://www.nirsoft.net/utils/usb_devices_view.html
+
+DC3-MWCP - Collection of tools for forensic enterprise analysis from DC3 
+https://www.dc3.mil/software-catalog/
+
+Memoryze - Memory acquisition and analysis tool for Windows systems 
+https://www.fireeye.com/services/freeware/memoryze.html
+
+EVTExtract - Automated parsing modules for Windows event log records 
+https://evtxtract.readthedocs.io/en/latest/
+
+Nmap - Network scanning and host discovery tool helpful for reconnaissance 
+https://nmap.org/
+
+OSINT Framework - Gathering publicly available online data regarding targets 
+https://osintframework.com/
+
+Recon-ng - Web-based open source reconnaissance framework 
+https://github.com/lanmaster53/recon-ng
+
+SpiderFoot - OSINT automation tool gathering threat intelligence data 
+https://www.spiderfoot.net/
+
+Metagoofil - Extract metadata of public documents from a target website 
+https://github.com/laramies/metagoofil
+
+TheHarvester - Gather emails, names, URLs from different public sources 
+https://github.com/laramies/theHarvester
+
+Creepy - Geolocation OSINT tool to extract target location information from social media profiles 
+https://www.geocreepy.com/
+
 
 #DOMAIN:
 Analyze ID
@@ -659,6 +891,9 @@ https://facecheck.id/de
 
 Google GHunt
 https://github.com/mxrch/GHunt
+
+
+
  
 #######################################################################################
 # OSINT_Resources
