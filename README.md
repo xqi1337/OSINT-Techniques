@@ -874,6 +874,9 @@ https://namevine.com
 User Search
 https://usersearch.org
 
+Discord Info:
+https://discord.id/
+
 socid_extractor
 https://github.com/soxoj/socid-extractor
 
